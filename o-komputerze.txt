@@ -1,1 +1,56 @@
 Linux desktop-6om4856.home 6.0.8-300.fc37.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Nov 11 15:09:04 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        8012112 kB
+MemFree:         1573088 kB
+MemAvailable:    4253040 kB
+Buffers:            1788 kB
+Cached:          3688584 kB
+SwapCached:          392 kB
+Active:          2057084 kB
+Inactive:        3514792 kB
+Active(anon):      82100 kB
+Inactive(anon):  2558704 kB
+Active(file):    1974984 kB
+Inactive(file):   956088 kB
+Unevictable:      425740 kB
+Mlocked:            5956 kB
+SwapTotal:       8011772 kB
+SwapFree:        8006508 kB
+Zswap:                 0 kB
+Zswapped:              0 kB
+Dirty:               996 kB
+Writeback:             0 kB
+AnonPages:       2306884 kB
+Mapped:           520776 kB
+Shmem:            754284 kB
+KReclaimable:     120824 kB
+Slab:             253828 kB
+SReclaimable:     120824 kB
+SUnreclaim:       133004 kB
+KernelStack:       14128 kB
+PageTables:        33972 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    12017828 kB
+Committed_AS:    8142284 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       72124 kB
+VmallocChunk:          0 kB
+Percpu:             4544 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      175088 kB
+DirectMap2M:     4945920 kB
+DirectMap1G:     3145728 kB
