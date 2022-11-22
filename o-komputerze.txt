@@ -1,0 +1,1 @@
+Linux desktop-6om4856.home 6.0.8-300.fc37.x86_64 #1 SMP PREEMPT_DYNAMIC Fri Nov 11 15:09:04 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
